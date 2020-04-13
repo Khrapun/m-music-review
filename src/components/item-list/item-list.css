@@ -1,0 +1,17 @@
+.item-list {
+    margin-bottom: 1rem;
+  }
+  
+  .item-list .list-group-item {
+    cursor: pointer;
+  }
+  
+  .item-list .list-group-item:hover {
+    background-color: #444;
+  }
+
+  .radio-image {
+    width: 30px;
+    height: 30px;
+    margin-left: 1rem;
+  }

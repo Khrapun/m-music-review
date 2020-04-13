@@ -1,0 +1,41 @@
+.random-planet {
+    display: flex;
+    padding: 1rem;
+    border: 1px solid #444;
+  }
+  
+  .random-planet .planet-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    margin-right: 1rem;
+  }
+  
+  .random-planet .list-group {
+    margin: 1rem 0 0 1rem;
+  }
+  
+  .random-planet .list-group-item {
+    padding: .25rem;
+  }
+  
+  .random-planet .list-group-item .term {
+    margin-right: .5rem;
+  }
+
+  .top-songs-list {
+    margin-top: 1rem;
+  }
+
+  .top-songs-list h5{
+    color: #a3ebd3;
+  }
+
+  .top-songs-list li {
+    color: #a3ebd3;
+  }
+
+  .artist-name {
+    color: #02ffab;
+    font-size: 1.8rem;
+  }
